@@ -1,2 +1,2 @@
-# powerbicookbook.github.io
+# powerbidev
 Power BI tips and tricks
